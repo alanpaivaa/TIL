@@ -177,5 +177,4 @@ private struct CreateAcronymData: Content {
     let short: String
     let long: String
     let userID: UUID
-
 }
